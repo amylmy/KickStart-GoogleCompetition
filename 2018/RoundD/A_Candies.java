@@ -1,15 +1,15 @@
 import java.io.PrintStream;
 import java.util.*;
 
-public class Main {
+public class A_Candies {
     public static void main(String[] args) throws Exception{
-        System.setOut(new PrintStream("ans.txt"));
+        System.setOut(new PrintStream("A-output.txt"));
         Scanner scanner = new Scanner(System.in);
         int caseNum = scanner.nextInt();
         long start = System.currentTimeMillis();
         for (int i = 1; i <= caseNum; i++) {
             try {
-                System.out.println(String.format("Case #%d: %s", i, new Main().smallSolve(scanner)));
+                System.out.println(String.format("Case #%d: %s", i, new A_Candies().smallSolve(scanner)));
             } catch (Throwable e) {
                 System.err.println("ERROR in case #" + i);
                 e.printStackTrace();
@@ -83,7 +83,7 @@ public class Main {
 
     //  length, X1, X2, A, B, C, M, L
     private long[] generateSi(int len, long X1, long X2, long A, long B,long C, long M, long L) {
-        // Xi = （A * Xi-1 + B * Xi-2 + C）% M
+        // Xi = (A * Xi-1 + B * Xi-2 + C)% M
         // Xi = (A × Xi - 1 + B × Xi - 2 + C) modulo M, for i = 3 to N.
         // Si = Xi + L, for i = 1 to N.
         long[] Si = new long[len];
