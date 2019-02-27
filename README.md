@@ -1,7 +1,7 @@
 # [Code Jam Kickstart](https://code.google.com/codejam/kickstart/)
 This project contains some of my solutions for google kickstart.
 
-Some solutions also can be found [here](https://github.com/ckcz123/codejam).
+More solutions also can be found [here](https://github.com/ckcz123/codejam).
 
 ## 2018
 ### [Practice Round](https://code.google.com/codejam/contest/4374486/dashboard)
