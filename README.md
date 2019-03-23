@@ -1,6 +1,6 @@
 ## [Kick Start - Google's Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
 
-This project contains some of my solutions for **google kick start** with Java.
+This project contains my solutions for **google kick start** with Java.
 
 Some solutions before 2018 can be found [here](https://github.com/ckcz123/codejam).
 
