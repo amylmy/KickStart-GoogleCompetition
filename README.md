@@ -1,10 +1,10 @@
-## [Code Jam Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+## [Kick Start - Google's Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
 
 This project contains some of my solutions for **google kick start** with Java.
 
 Some solutions before 2018 can be found [here](https://github.com/ckcz123/codejam).
 
-整理了下完整列表，方便练习&复习
+整理了下题目列表，方便练习&复习
 
 ps：网站需要科学上网工具🔧
 
