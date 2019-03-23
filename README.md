@@ -1,16 +1,21 @@
-# [Code Jam Kickstart](https://code.google.com/codejam/kickstart/)
-This project contains some of my solutions for google kickstart.
+## [Code Jam Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
 
-More solutions also can be found [here](https://github.com/ckcz123/codejam).
+This project contains some of my solutions for **google kick start** with Java.
+
+Some solutions before 2018 can be found [here](https://github.com/ckcz123/codejam).
+
+整理了下完整列表，方便练习&复习
+
+ps：网站需要科学上网工具🔧
 
 ### 2019
 
 今年的改版啦😂 
 看不到数据了～WA了也不好分析是哪个case错了...
-不过往年的旧网址还在，还可以拿来练习👻
+不过往年的网址还在，数据也还可以下～可以用来练习👻
 
 #### [Practice Round]()
-- Guessing Number (平台热身题)
+- Guessing Number (平台热身)
 - Mural （同2018-H轮-B题）
 - Kickstart Alarm （同2018-C轮-C题）
 
