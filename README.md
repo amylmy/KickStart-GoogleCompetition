@@ -14,7 +14,12 @@ ps：网站需要科学上网工具🔧
 看不到数据了～WA了也不好分析是哪个case错了...
 不过往年的网址还在，数据也还可以下～可以用来练习👻
 
-#### [Practice Round]()
+#### [Round A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
+- Training
+- Parcels
+- Contention
+
+#### [Practice Round](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060)
 - Guessing Number (平台热身)
 - Mural （同2018-H轮-B题）
 - Kickstart Alarm （同2018-C轮-C题）
