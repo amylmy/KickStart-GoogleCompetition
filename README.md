@@ -14,6 +14,17 @@ ps：网站需要科学上网工具🔧
 看不到数据了～WA了也不好分析是哪个case错了...
 不过往年的网址还在，数据也还可以下～可以用来练习👻
 
+
+#### [Round C](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2)
+- Wiggle Walk
+- Circuit Board
+- Catch Some
+
+#### [Round B](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda)
+- Building Palindromes
+- Energy Stones
+- Diverse Subarray
+
 #### [Round A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
 - Training
 - Parcels
