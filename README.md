@@ -14,26 +14,50 @@ ps：网站需要科学上网工具🔧
 看不到数据了～WA了也不好分析是哪个case错了...
 不过往年的网址还在，数据也还可以下～可以用来练习👻
 
-
-#### [Round C](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2)
-- Wiggle Walk
-- Circuit Board
-- Catch Some
-
-#### [Round B](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda)
-- Building Palindromes
-- Energy Stones
-- Diverse Subarray
+#### [Practice Round](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060)
+- Guessing Number (平台热身)
+- Mural （同2018-H轮-B题）
+- Kickstart Alarm （同2018-C轮-C题）
 
 #### [Round A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
 - Training
 - Parcels
 - Contention
 
-#### [Practice Round](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060)
-- Guessing Number (平台热身)
-- Mural （同2018-H轮-B题）
-- Kickstart Alarm （同2018-C轮-C题）
+#### [Round B](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda)
+- Building Palindromes
+- Energy Stones
+- Diverse Subarray
+
+#### [Round C](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2)
+- Wiggle Walk
+- Circuit Board
+- Catch Some
+
+#### [Round D](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051061)
+- X or What?
+- Latest Guests
+- Food Stalls
+
+#### [Round E](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edb)
+- Cherries Mesh
+- Code-Eat Switcher
+- Street Checkers
+
+#### [Round F](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edc)
+- Flattening
+- Teach Me
+- Spectating Villages
+
+#### [Round G](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02)
+- Book Reading
+- The Equation
+- Shifts
+
+#### [Round H](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edd)
+- H-index
+- Diagonal Puzzle
+- Elevanagram
 
 ### 2018
 #### [Practice Round](https://code.google.com/codejam/contest/4374486/dashboard)
